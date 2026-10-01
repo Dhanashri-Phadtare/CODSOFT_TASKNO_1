@@ -69,4 +69,4 @@ Task-1-Rule-Based-Chatbot/
 │
 ├── chatbot.py
 ├── README.md
-└── requirements.txt
+└──# No external dependencies required.
